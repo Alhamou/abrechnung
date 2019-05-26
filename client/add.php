@@ -20,7 +20,7 @@
         <div class="row">
           <div class="col-md-12 order-md-1">
             <h4 class="mb-3"><i class="fas fa-info-circle"></i> Kunden Informationen</h4>
-            <form action="/abrechnung/server/add.php" name="abrechnung" method="POST" class="needs-validation" novalidate>
+            <form action="server/add.php" name="abrechnung" method="POST" class="needs-validation" novalidate>
               
             
 
