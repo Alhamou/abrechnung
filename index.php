@@ -21,7 +21,7 @@
   <body>
 
  
-  <?php include ("./dachboard/add.php"); ?>
+  <?php include ("./client/add.php"); ?>
 
 
     <script src="./partials/js/jquery-3.4.1.min.js"></script>
